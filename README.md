@@ -3,6 +3,8 @@
 
 我很喜欢它，于是打算分出来单独开个 repo。
 
+这也是我第一次自己造轮子吧（
+
 # 功能
 字面意思，合并的 Iterable。新建一个：`new MergedIterable(iterable1, iterable2)`，然后放手去用吧！
 
