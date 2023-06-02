@@ -12,3 +12,5 @@
 https://github.com/MCTeamPotato/PotatoRunner/blob/654b0f1cfb054e95d2ad39d9414a902929e06729/src/main/java/com/teampotato/potatorunner/api/replacer/EntityReplacer.java#L71
 
 https://github.com/MCTeamPotato/PotatoRunner/blob/main/src/main/java/com/teampotato/potatorunner/mixin/helper/impl/ServerWorldImpl.java#L37
+
+https://github.com/MCTeamPotato/PotatoRunner/blob/654b0f1cfb054e95d2ad39d9414a902929e06729/src/main/java/com/teampotato/potatorunner/mixin/stream/entity/entity/EntityMixin.java#L125
